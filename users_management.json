@@ -1,0 +1,42 @@
+[
+  {
+    "username": "ayass",
+    "password": 123456,
+    "full_name": "ايه متولي",
+    "role": "manager",
+    "branch_access": "وحدة سيدي سالم للتمويل الفردي ترخيص 5/1026",
+    "officer_name": "",
+    "branches_group": "",
+    "is_active": "نعم"
+  },
+  {
+    "username": "sys_supervisor",
+    "password": 123456,
+    "full_name": "ramy salem",
+    "role": "super_admin",
+    "branch_access": "",
+    "officer_name": "",
+    "branches_group": "all",
+    "is_active": "نعم"
+  },
+  {
+    "username": "amer",
+    "password": 123456,
+    "full_name": "امير ابوخشبه",
+    "role": "admin",
+    "branch_access": "وحدة سيدي سالم للتمويل الفردي ترخيص 5/1026,وحدة مطوبس  للتمويل الفردى ترخيص 3/1026,وحدة مطوبس  للتمويل الفردى ترخيص 3/1026",
+    "officer_name": "",
+    "branches_group": "",
+    "is_active": "نعم"
+  },
+  {
+    "username": "fathy",
+    "password": 123456,
+    "full_name": "محمد فتحي عبد الخالق",
+    "role": "officer",
+    "branch_access": "وحدة دسوق  للتمويل الفردى ترخيص 2/1026",
+    "officer_name": "محمد فتحي عبد الخالق",
+    "branches_group": "وحدة دسوق  للتمويل الفردى ترخيص 2/1026",
+    "is_active": "نعم"
+  }
+]
